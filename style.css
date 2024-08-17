@@ -1,4 +1,4 @@
-    :root{
+:root{
     --bcg-color:#D6EFD8;
     --primary-color:#1A5319;
     --border-radius:8px;
@@ -106,6 +106,10 @@ body{
     .qr-body img{
         max-width: 50%;
         max-height: 50%;
+        margin-block:10px ;
+        padding: 20px;
+        border: 0.5px solid white;
+        border-radius: 8px;
     }
     
 }
