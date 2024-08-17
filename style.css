@@ -1,4 +1,4 @@
-:root{
+    :root{
     --bcg-color:#D6EFD8;
     --primary-color:#1A5319;
     --border-radius:8px;
@@ -102,6 +102,10 @@ body{
     .qr-footer a{
         padding: 12px;
         font-size: 15px;
+    }
+    .qr-body img{
+        max-width: 70%;
+        max-height: 70%;
     }
     
 }
